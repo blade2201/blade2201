@@ -1,11 +1,11 @@
 Hi 👋 My name is Samuele Venier
 ===============================
 Web developer and MMO's enjoyer
--------------------------------*
-🌍  I'm based in Udine, Italy*
-✉️  You can contact me at [samuelevenier@gmail.com](mailto:samuelevenier@gmail.com)*
-🧠  I'm learning React and Next.js*
-🤝  I'm open to collaborating on Anything front-end related
+-------------------------------
+*🌍  I'm based in Udine, Italy
+*✉️  You can contact me at [samuelevenier@gmail.com](mailto:samuelevenier@gmail.com)
+*🧠  I'm learning React and Next.js
+*🤝  I'm open to collaborating on Anything front-end related
 
 ### Skills
 
